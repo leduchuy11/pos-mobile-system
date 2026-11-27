@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714477882624",
+    "project_id": "fir-store-pos",
+    "storage_bucket": "fir-store-pos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714477882624:android:a7199ea8018f17704777e5",
+        "android_client_info": {
+          "package_name": "com.example.demo_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW-MuvC3JWcUezsc3Bo_KKa5EMuerTiCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
